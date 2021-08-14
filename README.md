@@ -14,7 +14,7 @@
 | really bad and messy     |         
 | code                     |         
 |                          |         
-| also go unix supremacy   |         
+| i use arch btw           |         
 |                          |         
 +--------------------------+
 ```
