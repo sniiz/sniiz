@@ -14,7 +14,7 @@
 | really bad and messy     |         
 | code                     |         
 |                          |         
-| i use arch btw           |         
+| i use macs btw           |         
 |                          |         
 +--------------------------+
 ```
