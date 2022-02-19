@@ -8,9 +8,13 @@
 |                          |         
 | my name is haley, i suck |         
 | at everything that isnt  |         
-| basic python lol         |     
+| basic python lol         |
+|                          |
+| pls pls pls dont look    |
+| at my code its very bad  |
+| thank u                  |
 |                          |         
-| stan linux               |         
+| also windows bad         |         
 |                          |         
 +--------------------------+
 ```
