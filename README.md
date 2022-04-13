@@ -1,1 +1,1 @@
-<div class="tenor-gif-embed" data-postid="24295559" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/python-programming-c-programming-gif-24295559">Python Programming GIF</a>from <a href="https://tenor.com/search/python-gifs">Python GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://c.tenor.com/CtdmjqENwtcAAAAd/python-programming.gif" width="500"/>
