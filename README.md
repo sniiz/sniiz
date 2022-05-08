@@ -1,1 +1,1 @@
-<img src="https://c.tenor.com/CtdmjqENwtcAAAAd/python-programming.gif" width="500"/>
+<img src="https://i.redd.it/35q721o3v9y81.png" width="800"/>
