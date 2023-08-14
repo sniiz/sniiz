@@ -1,4 +1,5 @@
-<img src="https://media.tenor.com/rMtoTt_AqFYAAAAC/kel-kel-omori.gif" width=500 />
+# hi i'm haley and i make stuff sometimes
+it's usually not very good tho
 
 # stats (super pathetic)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sniiz" />
